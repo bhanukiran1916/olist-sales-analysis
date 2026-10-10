@@ -2,8 +2,7 @@
 
 An interactive Tableau dashboard built on 99K+ Brazilian e-commerce orders, with the full SQL analysis behind it.
 
-**Live dashboard:** [PASTE-YOUR-NEW-TABLEAU-LINK-HERE](https://public.tableau.com/app/profile/yennapusala.bhanu.kiran.reddy/viz/OlistSalesandDeliveryInsights_17916085741520/OlistSalesDeliveryInsights?publish=yes)
-
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/yennapusala.bhanu.kiran.reddy/viz/OlistSalesandDeliveryInsights_17916085741520/OlistSalesDeliveryInsights)
 ![Dashboard](dashboard_screenshot.png)
 
 ## Problem
